@@ -1,8 +1,9 @@
 <h1 align="left">Hey 👋 Nice to meet you!</h1>
 
 ###
-
-<p align="left">Hi, my name is Ahsan Siddiqi.<br><br>🎓 I'm a third year Computer Engineering student at the University of Guelph!<br>🌱 I’m in the process of expanding my repertoire and enhancing my understanding of AI and machine learning.<br>📧 Don't hesitate to reach out to me at ahsanhsiddiqi@gmail.com or @zhcloudz on twitter.</p>
+<pre>
+Hi, my name is Ahsan Siddiqi.<br><br>🎓 I'm a third year Computer Engineering student at the University of Guelph!<br>🌱 I’m in the process of expanding my repertoire and enhancing my understanding of AI and machine learning.<br>🔬 I'm currently working on Azure and natrual language processing through my fintech project Genesis<br>📧 Don't hesitate to reach out to me at <a href="mailto:ahsanhsiddiqi@gmail.com">ahsanhsiddiqi@gmail.com</a> or <a href="https://x.com/zhcloudz">@zhcloudz</a>.
+</pre>
 
 ###
 
