@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="200" src="https://pbs.twimg.com/profile_images/1835448791308046336/frdaDmaO_400x400.jpg"  />
-
-###
-
 <p align="left">Hi, my name is Ahsan Siddiqi.<br><br>🎓 I'm a third year Computer Engineering student at the University of Guelph!<br>🌱 I’m in the process of expanding my repertoire and enhancing my understanding of AI and machine learning.<br>📧 Don't hesitate to reach out to me at ahsanhsiddiqi@gmail.com or @zhcloudz on twitter.</p>
 
 ###
