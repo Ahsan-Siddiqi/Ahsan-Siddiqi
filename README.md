@@ -2,12 +2,12 @@
 
 ###
 <pre>
-Hi, my name is Ahsan Siddiqi.<br><br>🎓 I'm a third year Computer Engineering student at the University of Guelph!<br>🌱 I’m in the process of expanding my repertoire and enhancing my understanding of AI and machine learning.<br>🔬 I'm currently working on Azure and natrual language processing through my fintech project Genesis<br>📧 Don't hesitate to reach out to me at <a href="mailto:ahsanhsiddiqi@gmail.com">ahsanhsiddiqi@gmail.com</a> or <a href="https://x.com/zhcloudz">@zhcloudz</a>.
+Hi, my name is Ahsan Siddiqi.<br><br>🎓 I'm a Computer Engineering student at the University of Guelph!<br>🌱 I’m in the process of expanding my repertoire and enhancing my understanding of AI and machine learning.<br>🔬 I'm currently working on Mobile Development and AI<br>📧 Don't hesitate to reach out to me at <a href="mailto:ahsanhsiddiqi@gmail.com">ahsanhsiddiqi@gmail.com</a> or <a href="https://x.com/zhcloudz">@zhcloudz</a>.
 </pre>
 
 ###
 
-<h2 align="left">My Current Stack</h2>
+<h2 align="left">What I know</h2>
 
 ###
 
@@ -15,14 +15,6 @@ Hi, my name is Ahsan Siddiqi.<br><br>🎓 I'm a third year Computer Engineering 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -38,6 +30,14 @@ Hi, my name is Ahsan Siddiqi.<br><br>🎓 I'm a third year Computer Engineering 
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
